@@ -18,6 +18,7 @@
       title: Rajiv Gupta (Ph.D. Scholar)
       institution: Banaras Hindu University
       description: Micro-pattern gaseous detector optimization, finite-element structural simulation via Garfield++/ANSYS, and electrical performance characterization profiles for upcoming high-luminosity tracking upgrades.
+
 - title: Academic Appointments
   type: time_list
   contents:
@@ -38,5 +39,4 @@
       institution: The European Physical Journal Plus (Accepted/In Press)
     - year: 2026
       title: Heavy hadron production in Au + Au collisions at a center-of-mass energy of 200 GeV.
-      institution: Physical Review C, 113, 014905      title: Simulation-based performance comparison of varied pitch sizes GEM detectors.
-      institution: Nuclear Instruments and Methods in Physics Research Section A, 1082, 171046
+      institution: Physical Review C, 113, 014905
