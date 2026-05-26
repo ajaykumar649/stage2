@@ -10,15 +10,14 @@
 - title: Research Supervision
   type: time_list
   contents:
-    - year: 2023 - Present
-      title: Rajiv Gupta (Ph.D. Scholar)
-      institution: Banaras Hindu University
-      description: Micro-pattern gaseous detector optimization, finite-element structural simulation via Garfield++/ANSYS, and electrical performance characterization profiles for upcoming high-luminosity tracking upgrades.
-    - year: 2024 - Present
+    - year: 2022 - Present
       title: Sunidhi Saxena (Ph.D. Scholar)
       institution: Banaras Hindu University
       description: Heavy hadron production phenomenology and multi-dimensional anisotropic flow signature mapping inside hot Quark-Gluon Plasma (QGP) matrices utilizing HYDJET++.
-
+    - year: 2022 - Present
+      title: Rajiv Gupta (Ph.D. Scholar)
+      institution: Banaras Hindu University
+      description: Micro-pattern gaseous detector optimization, finite-element structural simulation via Garfield++/ANSYS, and electrical performance characterization profiles for upcoming high-luminosity tracking upgrades.
 - title: Academic Appointments
   type: time_list
   contents:
@@ -31,20 +30,6 @@
       institution: Sri Aurobindo College, University of Delhi, India
       description: Delivered structural lectures in Elements of Modern Physics, Solid State Physics, Atomic Physics, and Computational Physics methodologies.
 
-- title: Education
-  type: time_list
-  contents:
-    - year: 2016
-      title: Ph.D. in Experimental High Energy Physics
-      institution: University of Delhi, India
-      description: "Thesis: Search for the SM Higgs Boson in H -> WW -> lvjj and Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at LHC."
-    - year: 2010
-      title: M.Sc. in Physics
-      institution: University of Delhi, India
-    - year: 2008
-      title: B.Sc. (Gen) Group A
-      institution: Acharya Narendra Dev College, University of Delhi, India
-
 - title: Selected Publications
   type: time_list
   contents:
@@ -53,12 +38,5 @@
       institution: The European Physical Journal Plus (Accepted/In Press)
     - year: 2026
       title: Heavy hadron production in Au + Au collisions at a center-of-mass energy of 200 GeV.
-      institution: Physical Review C, 113, 014905
-    - year: 2025
-      title: Simulation-based performance comparison of varied pitch sizes GEM detectors.
-      institution: Nuclear Instruments and Methods in Physics Research Section A, 1082, 171046    - year: 2026
-      title: Heavy hadron production in Au + Au collisions at a center-of-mass energy of 200 GeV.
-      institution: Physical Review C, 113, 014905
-    - year: 2025
-      title: Simulation-based performance comparison of varied pitch sizes GEM detectors.
+      institution: Physical Review C, 113, 014905      title: Simulation-based performance comparison of varied pitch sizes GEM detectors.
       institution: Nuclear Instruments and Methods in Physics Research Section A, 1082, 171046
