@@ -1,0 +1,70 @@
+# General Information Section
+- title: General Information
+  type: map
+  contents:
+    - name: Dr. Ajay Kumar
+      title: Assistant Professor of Physics
+      department: Department of Physics, Institute of Science
+      institution: Banaras Hindu University
+      address: Varanasi, Uttar Pradesh, India - 221005
+      email: ajay.phy@bhu.ac.in
+      phone: +91-88-265-265-47
+
+# Research Supervision Section (Your real scholars)
+- title: Research Supervision
+  type: time_list
+  contents:
+  
+    - year: 2022 - Present
+      title: Sunidhi Saxena (Ph.D. Scholar)
+      institution: Banaras Hindu University
+      description: Heavy hadron production phenomenology and multi-dimensional anisotropic flow signature mapping inside hot Quark-Gluon Plasma (QGP) matrices utilizing HYDJET++.
+    
+    - year: 2022 - Present
+      title: Rajiv Gupta (Ph.D. Scholar)
+      institution: Banaras Hindu University
+      description: Micro-pattern gaseous detector optimization, finite-element structural simulation via Garfield++/ANSYS, and electrical performance characterization profiles for upcoming high-luminosity tracking upgrades.
+
+# Education Section
+- title: Education
+  type: time_list
+  contents:
+    - year: 2010 - 2016
+      title: Ph.D. in Physics (Experimental High Energy Physics)
+      institution: University of Delhi, New Delhi, India
+      description: "Thesis: Search for the SM Higgs Boson in H -> WW -> lvjj and Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at LHC. Awarded: November 16, 2016."
+    - year: 2008 - 2010
+      title: M.Sc. in Physics
+      institution: University of Delhi, New Delhi, India
+      description: First Division (66.2%)
+    - year: 2005 - 2008
+      title: B.Sc. in Physics, Chemistry, Mathematics
+      institution: Acharya Narendra Dev College, University of Delhi, India
+      description: First Division (74.44%). Awarded Certificate of Merit for Topping College.
+
+# Academic Appointments Section
+- title: Academic Appointments
+  type: time_list
+  contents:
+    - year: 2020 - Present
+      title: Assistant Professor
+      institution: Banaras Hindu University, Varanasi, India
+      description: Instruct core courses in Particle Physics, Mathematical Physics, Computational Physics, and Electronics. Direct advanced Nuclear and Optics instrumentation laboratories.
+    - year: 2016 - 2020
+      title: Assistant Professor
+      institution: Sri Aurobindo College, University of Delhi, India
+      description: Delivered structural lectures in Modern Physics, Solid State Physics, Atomic Physics, and Computational Physics methodologies.
+
+# Selected Publications Section
+- title: Selected Publications
+  type: time_list
+  contents:
+    - year: 2026
+      title: Anisotropic flow of heavy hadrons in Au + Au collisions at center-of-mass energy using HYDJET++ framework.
+      institution: The European Physical Journal Plus (Accepted/In Press)
+    - year: 2026
+      title: Heavy hadron production in Au + Au collisions at a center-of-mass energy of 200 GeV.
+      institution: Physical Review C, 113, 014905
+    - year: 2025
+      title: Simulation-based performance comparison of varied pitch sizes GEM detectors.
+      institution: Nuclear Instruments and Methods in Physics Research Section A, 1082, 171046
