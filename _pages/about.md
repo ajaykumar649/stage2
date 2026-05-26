@@ -2,33 +2,62 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor of Physics at Banaras Hindu University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  image_circular: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### Biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I am **Dr. Ajay Kumar**, an Assistant Professor at the Department of Physics, Institute of Science, Banaras Hindu University (BHU). My academic journey began in Nawada, within the historic ancient Magadh division of south Bihar. Following my schooling at Jawahar Navodaya Vidyalaya, Rewar, Nawada, I relocated to Delhi for higher education, earning my Ph.D. from the University of Delhi in 2016.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I joined the faculty at BHU in July 2020 after spending several years conducting high-energy physics instrumentation frameworks in the United States as a Post-Doctoral and Pre-Doctoral Research Fellow across **Purdue University**, **Northwestern University**, and **Fermilab**. My background heavily focuses on experimental high-energy physics, detailing micro-pattern gaseous detector setups and silicon timing sensor architectures. My doctoral and graduate research operations were executed on-site across major global particle tracking instruments, including **CERN**, **Fermilab**, and the **University of Delhi**.
+
+---
+
+### Core Research Vectors
+
+* **Detector Instrumentation and R&D:** Advanced simulation, structural configuration optimization, and electrical performance modeling of gas-based **Gas Electron Multiplier (GEM) detectors** and radiation-hard silicon **Low-Gain Avalanche Detectors (LGADs)** for upcoming high-luminosity CMS tracking upgrades.
+* **Electroweak and Higgs Physics:** Investigating Standard Model Higgs decay channels (H to WW), measuring Electroweak Vector Boson Scattering (VBS) event topologies, and extracting strict boundary limits on anomalous Gauge Couplings (aQCs) within the CMS experiment at the Large Hadron Collider (LHC).
+* **Nucleon Structure and Heavy Ions:** Evaluating Generalized Parton Distributions via Deeply Virtual Compton Scattering (DVCS) simulation pipelines for the ATHENA tracking framework at the Electron-Ion Collider (EIC), alongside modeling heavy hadron production and anisotropic flow signature profiles inside hot Quark-Gluon Plasma (QGP) frameworks.
+
+---
+
+### Teaching and Courses
+
+I actively coordinate graduate and undergraduate academic tracks at the Institute of Science, BHU:
+
+#### Theory Course Tracks
+
+* **Postgraduate (PG):** Particle Physics, Mathematical Physics, Computational Physics Methodologies.
+* **Undergraduate (UG):** Quantum Mechanics, Core Solid-State Electronics.
+
+#### Laboratories Managed and Coordinated
+
+* **Nuclear Physics Laboratory** (PG Facility tracking radioactive decay instrumentation models).
+* **General and Optics Physics Laboratory** (UG foundational experimental instrumentation).
+* **Electronics Engineering Laboratory** (UG structural hardware profiling).
+
+---
+
+### Education and Work History
+
+#### Academic Professional Appointments
+
+* **Assistant Professor** | Banaras Hindu University, India — *[July 2020 – Present]*
+* **Assistant Professor** | Sri Aurobindo College (M), University of Delhi, India — *[Aug 2016 – July 2020]*
+* **Pre-Doctoral Research Fellow** | Northwestern University, USA — *[Mar 2016 – May 2016]*
+* **Visiting Scientist** | LHC Physics Center, Fermilab, USA — *[Oct 2015 – Feb 2016]*
+* **Post-Doctoral Research Fellow** | Purdue University, USA — *[Aug 2015 – Oct 2015]*
+* **Visiting Graduate Student** | CERN, Geneva, Switzerland — *[2012 – 2014]*
+* **Research Intern** | LHC Physics Center, Fermilab, USA — *[2013 – 2014]*
+
+#### Higher Education Background
+
+* **Ph.D. in Experimental High-Energy Physics** | University of Delhi, India — *[2010 – 2016]*
+  *Thesis:* "Search for the SM Higgs boson in the H to WW decay channel and Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at the LHC." *(Supervisor: Prof. Kirti Ranjan)*
+* **M.Sc. in Physics (Electronics)** | University of Delhi, India — *[2008 – 2010]*
+* **B.Sc. (Honours) in Physics** | Acharya Narendra Dev College, University of Delhi, India — *[2005 – 2008]*
