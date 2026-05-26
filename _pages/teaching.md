@@ -2,14 +2,27 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Academic course tracking and laboratory coordination at BHU.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Current Course Schedules (Banaras Hindu University)
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+Regular lecture series coordinated across the postgraduate (PG) and undergraduate (UG) tracks at the Institute of Science:
 
-{% include courses.liquid %}
+* **Particle Physics (PG)** 
+* **Mathematical Physics (PG)** 
+* **Quantum Mechanics (UG)**
+* **Nuclear & particle Physics(UG)**
+
+---
+
+### Laboratory Coordination Roles
+
+Supervising undergraduate and post graduate students:
+
+1.  **Nuclear Physics Laboratory (PG):**
+2.  **Computational  Physics Laboratory (PG):**
+3.  **Computational  Physics Laboratory (UG):**
+4.  **Electronics  Laboratory (UG):** 
