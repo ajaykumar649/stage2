@@ -1,11 +1,19 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: blank # the website title (if blank, full name will be used instead)
+# Profile Identity Coordinates
 first_name: Ajay
 middle_name: ""
 last_name: Kumar
+title: Dr. Ajay Kumar
+email: ajay.phy@bhu.ac.in
+
+# Academic Identifiers
+orcid_id: 0000-0002-8477-9079
+inspirehep_id: 1073118
+scholar_userid: "Kq8w0EwAAAAJ"
+github_username: ajaykumar649
+linkedin_username: "ajay-kumar-3219791a"
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
